@@ -86,10 +86,6 @@
         {
           "name": "x",
           "ioValue": 0.4336476090008061
-        },
-        {
-          "name": "pi",
-          "ioValue": 3.141592653589793
         }
       ],
       "currentEquation": "x * 180/ pi"
@@ -142,10 +138,6 @@
           "ioValue": 59.400000000000006
         },
         {
-          "name": "pi",
-          "ioValue": 3.141592653589793
-        },
-        {
           "name": "y",
           "ioValue": 0.4336476090008061
         }
@@ -162,10 +154,6 @@
         {
           "name": "x",
           "ioValue": 59.400000000000006
-        },
-        {
-          "name": "pi",
-          "ioValue": 3.141592653589793
         },
         {
           "name": "y",
@@ -431,8 +419,8 @@
     },
     {
       "atomType": "Rectangle",
-      "x": 0.3732470334412082,
-      "y": 0.5727482678983834,
+      "x": 0.9282632146709816,
+      "y": 0.8891454965357968,
       "uniqueID": "id-151",
       "ioValues": [
         {
@@ -522,33 +510,6 @@
           "name": "Shape 2",
           "ioValue": {
             "geometry": "move-rectangle-59.400000000000006-19.8--29.700000000000003-0-0",
-            "dimension": "2D",
-            "plane": {
-              "origin": [
-                0,
-                0,
-                0
-              ],
-              "xDir": [
-                1,
-                0,
-                0
-              ],
-              "normal": [
-                0,
-                0,
-                1
-              ]
-            },
-            "color": "#aad7f2",
-            "tags": [],
-            "bom": []
-          }
-        },
-        {
-          "name": "Shape 3",
-          "ioValue": {
-            "geometry": "move-rectangle-19.8-39.6--49.5--29.700000000000003-0",
             "dimension": "2D",
             "plane": {
               "origin": [
@@ -1203,11 +1164,6 @@
       "ap2Name": "geometry",
       "ap1ID": "id-151",
       "ap2ID": "id-155"
-    },
-    {
-      "ap2Name": "Shape 3",
-      "ap1ID": "id-155",
-      "ap2ID": "id-172"
     },
     {
       "ap2Name": "xDist",
